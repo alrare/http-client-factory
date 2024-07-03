@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vYVRe4ir4gur9eSpwxVH7CIH1mo/SP6YF4iJThaD4mZJlJETChWW9lx2KTt5FoKfKmQ/IlhwjWK7xL/g8j/ulg==",
+  "success": true,
+  "projectFilePath": "/Users/alejandroramirezreyesbroxel/Downloads/PA.HttpClient/HttpClient/HttpClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/alejandroramirezreyesbroxel/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/alejandroramirezreyesbroxel/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alejandroramirezreyesbroxel/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/alejandroramirezreyesbroxel/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/alejandroramirezreyesbroxel/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/alejandroramirezreyesbroxel/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
